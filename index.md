@@ -1,6 +1,6 @@
-# Example Progress Journal
+# Meryem Kemerci's Progress Journal
 
-## Week 2 (Oct 10)
+## Week 3 (Oct 24)
 
 
-+ [Here](files/interesting_examples.html) is my 5 interesting R examples. 
++ [Here](files/HW2_homicide_rates.html) is my first study for a real dataset. 

@@ -1,5 +1,11 @@
 # Meryem Kemerci's Progress Journal
 
+## Week 2 (Oct 10)
+
+
++ [Here](interesting_examples.html) is my interesting examples. 
+
+
 ## Week 3 (Oct 26)
 
 

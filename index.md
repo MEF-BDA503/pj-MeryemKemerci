@@ -10,4 +10,4 @@
 
 ## Week 5 (Dec 4) 
 
-+ [Here](Diamonds_work.html) is Diamonds dataset analysis. 
++ [Here](Diamonds_work.html) is Diamonds dataset analysis. It is not finished yet, more analysis will be added.  

@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Meryem Kemerci Progress Journal
 description: BDA 503 Fall 2017 - MEF University
+
+encoding: UTF-8
+exclude: ["*.Rmd"]

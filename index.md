@@ -10,4 +10,8 @@
 
 ## Week 5 (Dec 4) 
 
-+ [Here](Diamonds_work.html) is Diamonds dataset analysis. It is not finished yet, more analysis will be added.  
++ [Here](Diamonds_work.html) is Diamonds dataset analysis. It is not finished yet, more analysis will be added. 
+
+## Final Exam RData File
+
++[Here](OSYM_Final_Exam_Data.RData) 

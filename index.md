@@ -12,6 +12,11 @@
 
 + [Here](Diamonds_work.html) is Diamonds dataset analysis. It is not finished yet, more analysis will be added. 
 
+## Final (Jan 10)
+
++[Here](Final.html) is my final exam result
+
 ## Final Exam RData File
 
 +[Here](OSYM_Final_Exam_Data.RData) 
+
